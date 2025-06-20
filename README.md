@@ -1,14 +1,25 @@
-# Hi there! 👋 I'm Vikas
+# Hi there! 👋 I'm Vikas Surve
 
 🚀 **MS Certified DevOps Engineer Expert | Azure & AWS Cloud Specialist**
 
 ## 🔹 About Me
-I am an **MS Certified DevOps Engineer Expert** and **Azure Administrator Associate** with over **10 years of experience** in designing, implementing, and optimizing **DevOps solutions**. My expertise includes **CI/CD automation using GitLab, Jenkins, and Azure DevOps**, as well as **container orchestration with Docker and Kubernetes**.
+I'm a **Tech Lead (DevOps Engineer)** with over **10 years of hands-on experience** helping teams **build, deploy, and manage software** more efficiently. I’ve worked with tools like **Azure DevOps, Jenkins, GitLab, Docker**, and **Kubernetes** to **automate processes** and make systems more **reliable**. I’ve also used **Terraform** and **Bicep** to manage **cloud infrastructure**, mostly on Azure. I enjoy solving **complex problems, mentoring teammates**, and ensuring smooth operations from **code to production**. Whether it's **speeding up deployments or improving monitoring**, I focus on making **technology work better for people**.
+.
 
 ### 🔹 Key Expertise
 - **End-to-end CI/CD pipeline design & management**
 - **Hands-on experience with Azure, Kubernetes (AKS), and Terraform for scalable deployments**
 - **Passionate about automation, security, and cloud-native technologies**
+- **DevSecOps Practices**
+- **Cloud & Infrastructure as code**
+- **Container & Orchestration**
+- **Configurations & Scripting**
+- **Monitoring and Observability**
+- **Problem Solving & Optimization**
+- **Continuous Learning & Innovation**
+- **Soft Skills & Strengths**
+- **Team Leadership & Mentorship**
+
 
 ## 🛠 Skills & Tools
 
@@ -16,34 +27,34 @@ I am an **MS Certified DevOps Engineer Expert** and **Azure Administrator Associ
 ✅ **Cloud & Infrastructure:** Azure, AWS  
 ✅ **Infrastructure as Code (IaC):** Terraform, Bicep  
 ✅ **Containers & Orchestration:** Docker, Kubernetes (AKS)  
-✅ **Config Management:** PowerShell, Shell Scripting  
+✅ **Scripting Languages:** PowerShell, Shell Scripting  
 ✅ **Monitoring & Observability:** Grafana, Prometheus, Azure Monitor  
 ✅ **Security & Networking:** Load Balancers, Firewalls, ClusterIP  
 ✅ **Operating Systems:** Linux, Mac  
 
 ## 📌 Projects & Experience
-🔹 **[Project 1 - Cloud Native CI/CD Pipeline](#)**
-- Built a CI/CD pipeline for microservices using **Azure DevOps & Kubernetes (AKS)**
-- Automated deployments using **Helm & Terraform**
-- Implemented security scanning with **Trivy & SonarQube**
+**Project 1: Automating Deployment using Bitrise**						                                                        **Duration: July 2024 – Present**
+**Tools & Technologies**: Bitrise, Mobile CI/CD, Backend Services, Monitoring & Alerting 
+**•	Situation**:
+The mobile and backend teams were struggling with slow, manual deployment processes that often led to delays, inconsistent releases, and bugs slipping into production. These issues were affecting user experience and team morale.
+**•	Key Contributions & Impact**:
+I built and rolled out automated CI/CD workflows using Bitrise, which cut deployment time by over 60% and reduced manual errors by nearly 80%. I also set up real-time monitoring and alerting, allowing the team to catch and fix issues before they reached users. As a result, release cycles became faster and more predictable, system stability improved, and developer productivity saw a noticeable boost.
+ 
+**Project 2: Enhancing E-Commerce Uptime using Jenkins, GitHub & Logging Tools**                                                **Duration: 2.3 Years**
+Tools & Technologies: Jenkins, GitHub, Docker, Prometheus, Grafana 
+•	Situation:
+The e-commerce platform was frequently going down during peak hours due to unreliable deployments and lack of visibility into system health. These outages were costing the business revenue and customer trust.
+•	Key Contributions & Impact:
+I redesigned the CI/CD pipeline using Jenkins and GitHub, enabling automated and stable deployments. I also introduced centralized logging and monitoring with Prometheus, and Grafana, which helped the team identify and resolve issues in real time. These changes led to a 99.9% uptime, a 40% improvement in delivery speed, and a measurable increase in user engagement and retention.
+ 
 
-🔹 **[Project 2 - AWS Infrastructure as Code](#)**
-- Deployed a scalable AWS environment using **Terraform & CloudFormation**
-- Automated infrastructure provisioning for **EC2, RDS, S3, VPC**
-- Integrated monitoring with **CloudWatch & Grafana**
-
-🔹 **[Project 3 - DevSecOps Pipeline](#)**
-- Integrated **security checks in CI/CD** pipelines
-- Automated **vulnerability scanning** for Docker images
-- Implemented **RBAC & IAM best practices** in AWS & Azure
-
-## 💡 Key Strengths
-✔ **Cloud Architecture & Automation** – Designing and managing scalable cloud solutions  
-✔ **CI/CD & DevOps Leadership** – Implementing robust and automated software delivery pipelines  
-✔ **Team Leadership & Mentorship** – Leading a 5-member team, fostering collaboration and growth  
-✔ **Security & Compliance** – Ensuring cloud security, compliance, and best practices  
-✔ **Problem Solving & Optimization** – Driving efficiency through automation and DevOps practices  
-✔ **Continuous Learning & Innovation** – Exploring emerging technologies and best practices  
+**Project 3: Multi-Platform SCM using Azure DevOps & Services**						                                                      **Duration: 3.6 Years**
+**Tools & Technologies**: Azure DevOps, Azure Monitor, Azure Pipelines, YAML, Terraform 
+**•	Situation:**
+A facility management company was relying on outdated manual workflows for service coordination, which caused delays, errors, and poor customer satisfaction. The system lacked scalability and was difficult to maintain.
+**•	Key Contributions & Impact:**
+I led the development of a scalable Service Coordination Management (SCM) platform using Azure DevOps. I replaced manual processes with automated CI/CD pipelines and integrated Azure Monitor and Application Insights for proactive performance tracking. This transformation reduced deployment failures by over 70%, cut downtime by 50%, and significantly improved team efficiency and customer satisfaction.
+ 
 
 ## 📚 Certifications
 - **Microsoft Certified: DevOps Engineer Expert**
