@@ -34,6 +34,7 @@ I'm a **Tech Lead (DevOps Engineer)** with over **10 years of hands-on experienc
 
 ## 📌 Projects & Experience
 **Project 1: Automating Deployment using Bitrise**						                                                        **Duration: July 2024 – Present**
+
 **Tools & Technologies**: Bitrise, Mobile CI/CD, Backend Services, Monitoring & Alerting 
 **•	Situation**:
 The mobile and backend teams were struggling with slow, manual deployment processes that often led to delays, inconsistent releases, and bugs slipping into production. These issues were affecting user experience and team morale.
@@ -41,10 +42,11 @@ The mobile and backend teams were struggling with slow, manual deployment proces
 I built and rolled out automated CI/CD workflows using Bitrise, which cut deployment time by over 60% and reduced manual errors by nearly 80%. I also set up real-time monitoring and alerting, allowing the team to catch and fix issues before they reached users. As a result, release cycles became faster and more predictable, system stability improved, and developer productivity saw a noticeable boost.
  
 **Project 2: Enhancing E-Commerce Uptime using Jenkins, GitHub & Logging Tools**                                                **Duration: 2.3 Years**
-Tools & Technologies: Jenkins, GitHub, Docker, Prometheus, Grafana 
-•	Situation:
+
+**Tools & Technologies**: Jenkins, GitHub, Docker, Prometheus, Grafana 
+•	**Situation**:
 The e-commerce platform was frequently going down during peak hours due to unreliable deployments and lack of visibility into system health. These outages were costing the business revenue and customer trust.
-•	Key Contributions & Impact:
+**•	Key Contributions & Impact:**
 I redesigned the CI/CD pipeline using Jenkins and GitHub, enabling automated and stable deployments. I also introduced centralized logging and monitoring with Prometheus, and Grafana, which helped the team identify and resolve issues in real time. These changes led to a 99.9% uptime, a 40% improvement in delivery speed, and a measurable increase in user engagement and retention.
  
 
