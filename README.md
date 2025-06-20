@@ -60,7 +60,7 @@ I led the development of a scalable Service Coordination Management (SCM) platfo
 
 ## 📚 Certifications
 - **Microsoft Certified: DevOps Engineer Expert**
-- **Azure Administrator Associate** 
+- **Microsoft Certified: Azure Administrator Associate** 
 
 ## 📢 Let's Connect!
 I am passionate about **DevOps, automation, and cloud technologies**. Always eager to collaborate, share insights, and contribute to innovative projects. **Let's connect and explore how we can build future-ready solutions together! 🚀**
